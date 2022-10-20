@@ -4,6 +4,8 @@ Hola, mi nombre es Axel Espindola Perez, soy el primer contribuidor del proyecto
 
 ¿Cual es tu deporte favorito?
 //NombreContribuidor = Deporte (ej. JonHernandez20 = Futbol)
+AxelHO19 = Kick Boxing
 
 ¿Donde vives?
 //NombreContribuidor = Pais (ej. JonHernandez20 = Mexico)
+AxelHO19 = Estado de México, México 
