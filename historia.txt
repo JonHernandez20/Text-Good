@@ -1,7 +1,7 @@
 Aqui puedes escribir lo que gustes. Ejemplo
 Mi nombre es Jonathan Alejandro Hernandez Arriaga.
 Hola, mi nombre es Axel Espindola Perez, soy el primer contribuidor del proyecto.
-
+PD: Me gustaria tener mas contacto con ustedes. :)
 ¿Cual es tu deporte favorito?
 //NombreContribuidor = Deporte (ej. JonHernandez20 = Futbol)
 AxelHO19 = Kick Boxing
@@ -9,3 +9,7 @@ AxelHO19 = Kick Boxing
 ¿Donde vives?
 //NombreContribuidor = Pais (ej. JonHernandez20 = Mexico)
 AxelHO19 = Estado de México, México
+
+¿Cual es tu edad?
+//NombreContribuidor = Edad (ej. JonHernandez20 = 20 Años)
+
