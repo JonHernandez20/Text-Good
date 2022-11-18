@@ -16,3 +16,7 @@ AxelHO19 = 31 Años
 
 ¿Que quieres estudiar o que estudiaste?
 //NombreContribuidor = Profesion (ej. JonHernandez20 = Ing. Software)
+//NombreContribuidor = Profesion (ej. JonHernandez20 = Ing. Software)
+
+¿Que decias querer ser cuando eras infante?
+//NombreContribuidor = Profesion (ej. JonHernandez20 = Futbolista)
