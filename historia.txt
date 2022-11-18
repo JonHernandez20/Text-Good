@@ -13,3 +13,6 @@ AxelHO19 = Estado de México, México
 ¿Cual es tu edad?
 //NombreContribuidor = Edad (ej. JonHernandez20 = 20 Años)
 AxelHO19 = 31 Años
+
+¿Que quieres estudiar o que estudiaste?
+//NombreContribuidor = Profesion (ej. JonHernandez20 = Ing. Software)
