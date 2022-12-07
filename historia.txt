@@ -27,3 +27,6 @@ AxelHO19 = 31 Años
 
 ¿Cual es tu materia que menos te gusta?
 //NombreContribuidor = Materia menos favorita (ej. JonHernandez20 = Historia)
+
+¿Cual es tu color favorito?
+//NombreContribuidor = Color Favorito (ej. JonHernandez20 = Rojo)
