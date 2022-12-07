@@ -30,3 +30,7 @@ AxelHO19 = 31 Años
 
 ¿Cual es tu color favorito?
 //NombreContribuidor = Color Favorito (ej. JonHernandez20 = Rojo)
+
+
+¿Que te gusta mas; series o peliculas?
+//NombreContribuidor = Eleccion (ej. JonHernandez20 = Series)
