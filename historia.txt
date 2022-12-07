@@ -34,3 +34,6 @@ AxelHO19 = 31 Años
 
 ¿Que te gusta mas; series o peliculas?
 //NombreContribuidor = Eleccion (ej. JonHernandez20 = Series)
+
+¿Tienes anime Favorito, cual es?
+//NombreContribuidor = Anime favorito (ej. JonHernandez20 = Jujutsu Kaisen)
