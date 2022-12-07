@@ -39,3 +39,6 @@ AxelHO19 = 31 Años
 
 ¿Lenguaje de programacion favorito?
 //NombreContribuidor = Lenguaje de programacion favorito (ej. JonHernandez20 = JavaScript)
+
+¿Sistema opetativo favorito?
+//NombreContribuidor = Sistema favorito (ej. JonHernandez20 = Windows con WSL)
