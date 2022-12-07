@@ -37,3 +37,6 @@ AxelHO19 = 31 Años
 
 ¿Tienes anime Favorito, cual es?
 //NombreContribuidor = Anime favorito (ej. JonHernandez20 = Jujutsu Kaisen)
+
+¿Sistema opetativo favorito?
+//NombreContribuidor = Sistema favorito (ej. JonHernandez20 = Windows con WSL)
